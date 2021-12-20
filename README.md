@@ -9,7 +9,7 @@ https://www.tiktok.com/@liurzdez/video/7043605356496325894?_d=secCgwIARCbDRjEFSA
 https://vm.tiktok.com/ZM83DHJf2/
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-SLA Anual:
+SLA compuesto:
 App Service 99.95
 App Service 99.95
 App Service 99.95
@@ -35,5 +35,7 @@ Azure Cognitive Services                  $0.00                       $0.00
                                        ----------------------        -----------------
 Total                                     $200.15                     $7,205.40
 
-
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+¿Que te pareció el evento?
+Durante estas cuatro semanas hemos tenido acceso a acompañamiento de parte de los sherpas para comprender de mejor manera los temas de la certificación Azure Fundamentals. Las clases fueron didácticas y entendibles, lo cual nos permitió asimilar y relacionar fácilmente los conceptos tratados. El hackathon nos permitió poner en práctica algunas de estas nuevas habilidades para llevar a cabo un proyecto funcional en la nube, otro punto muy importante fue el poder formar un equipo con compañeros de diferentes carreras, esto hizo que la experiencia fuera mucho mejor, ya que todos aportamos diferentes conocimientos para crear una solución.
