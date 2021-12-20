@@ -9,6 +9,11 @@ https://www.tiktok.com/@liurzdez/video/7043605356496325894?_d=secCgwIARCbDRjEFSA
 https://vm.tiktok.com/ZM83DHJf2/
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Esquema:https://innovaccion-my.sharepoint.com/:b:/g/personal/inv1981_innovaccion_mx/ESTkCcgKm5pMixDsFlzIYd4BiXtoOmslwyK5GxCBbj66xA
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 SLA compuesto:
 App Service 99.95
 App Service 99.95
