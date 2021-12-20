@@ -21,9 +21,19 @@ Cognitive services 99.9
 SLA Anual =99.64%
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+TCO:
 
-
-
+Servicio                                  Costo Mensual               Costo 3 Años
+-----------------------------           ----------------------      -------------------
+Azure Bot Services                        $0.00                       $0.00
+App Service                               $54.75                      $1,971.00
+App Service                               $54.75                      $1,971.00
+App Service                               $73.00                      $2,628.00
+Azure Database for MySQL                  $17.65                      $635.40
+Azure Cognitive Services                  $0.00                       $0.00
+Azure Cognitive Services                  $0.00                       $0.00
+                                       ----------------------        -----------------
+Total                                     $200.15                     $7,205.40
 
 
 
